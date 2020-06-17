@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc10ba0aa5e455f9a0fe5ee6d202a94f",
+    "revision": "f573559353d9d9778e9d1934c52cb2fc",
     "url": "/agoraip-website-v2/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/agoraip-website-v2/static/js/2.3628f5e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03d307825e26b4f5bc59",
-    "url": "/agoraip-website-v2/static/js/main.f4528be9.chunk.js"
+    "revision": "f89428367f94e7ce8080",
+    "url": "/agoraip-website-v2/static/js/main.0591b6c3.chunk.js"
   },
   {
     "revision": "174e81b0331e7d19729c",
