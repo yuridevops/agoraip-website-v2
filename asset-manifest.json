@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/agoraip-website-v2/static/js/main.fb12c916.chunk.js",
-    "main.js.map": "/agoraip-website-v2/static/js/main.fb12c916.chunk.js.map",
+    "main.js": "/agoraip-website-v2/static/js/main.a9c1fb87.chunk.js",
+    "main.js.map": "/agoraip-website-v2/static/js/main.a9c1fb87.chunk.js.map",
     "runtime-main.js": "/agoraip-website-v2/static/js/runtime-main.c0f37327.js",
     "runtime-main.js.map": "/agoraip-website-v2/static/js/runtime-main.c0f37327.js.map",
-    "static/js/2.3628f5e8.chunk.js": "/agoraip-website-v2/static/js/2.3628f5e8.chunk.js",
-    "static/js/2.3628f5e8.chunk.js.map": "/agoraip-website-v2/static/js/2.3628f5e8.chunk.js.map",
+    "static/js/2.52597278.chunk.js": "/agoraip-website-v2/static/js/2.52597278.chunk.js",
+    "static/js/2.52597278.chunk.js.map": "/agoraip-website-v2/static/js/2.52597278.chunk.js.map",
     "index.html": "/agoraip-website-v2/index.html",
-    "precache-manifest.93db06b414ba0b4bee9b8d5770440b72.js": "/agoraip-website-v2/precache-manifest.93db06b414ba0b4bee9b8d5770440b72.js",
+    "precache-manifest.e89506151a536537b2880bcada23610e.js": "/agoraip-website-v2/precache-manifest.e89506151a536537b2880bcada23610e.js",
     "service-worker.js": "/agoraip-website-v2/service-worker.js",
-    "static/js/2.3628f5e8.chunk.js.LICENSE.txt": "/agoraip-website-v2/static/js/2.3628f5e8.chunk.js.LICENSE.txt",
+    "static/js/2.52597278.chunk.js.LICENSE.txt": "/agoraip-website-v2/static/js/2.52597278.chunk.js.LICENSE.txt",
     "static/media/agoraip-logo.png": "/agoraip-website-v2/static/media/agoraip-logo.b1a540fe.png",
     "static/media/bg-intro-blue.png": "/agoraip-website-v2/static/media/bg-intro-blue.24fb10b8.png",
     "static/media/bg-intro.jpg": "/agoraip-website-v2/static/media/bg-intro.a43f1711.jpg",
@@ -27,7 +27,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c0f37327.js",
-    "static/js/2.3628f5e8.chunk.js",
-    "static/js/main.fb12c916.chunk.js"
+    "static/js/2.52597278.chunk.js",
+    "static/js/main.a9c1fb87.chunk.js"
   ]
 }
