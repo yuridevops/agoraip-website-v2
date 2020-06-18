@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/agoraip-website-v2/precache-manifest.d29e278afd1af14ad3740812aae6104c.js"
+  "/agoraip-website-v2/precache-manifest.681b8bc84e41e5aa593604526133c326.js"
 );
 
 self.addEventListener('message', (event) => {
