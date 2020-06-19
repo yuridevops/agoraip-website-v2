@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.js": "/agoraip-website-v2/static/js/main.90f8053a.chunk.js",
-    "main.js.map": "/agoraip-website-v2/static/js/main.90f8053a.chunk.js.map",
+    "main.css": "/agoraip-website-v2/static/css/main.e0a447ee.chunk.css",
+    "main.js": "/agoraip-website-v2/static/js/main.136a8693.chunk.js",
+    "main.js.map": "/agoraip-website-v2/static/js/main.136a8693.chunk.js.map",
     "runtime-main.js": "/agoraip-website-v2/static/js/runtime-main.c0f37327.js",
     "runtime-main.js.map": "/agoraip-website-v2/static/js/runtime-main.c0f37327.js.map",
-    "static/js/2.3a1c8361.chunk.js": "/agoraip-website-v2/static/js/2.3a1c8361.chunk.js",
-    "static/js/2.3a1c8361.chunk.js.map": "/agoraip-website-v2/static/js/2.3a1c8361.chunk.js.map",
+    "static/css/2.8f118048.chunk.css": "/agoraip-website-v2/static/css/2.8f118048.chunk.css",
+    "static/js/2.c23aeda3.chunk.js": "/agoraip-website-v2/static/js/2.c23aeda3.chunk.js",
+    "static/js/2.c23aeda3.chunk.js.map": "/agoraip-website-v2/static/js/2.c23aeda3.chunk.js.map",
     "index.html": "/agoraip-website-v2/index.html",
-    "precache-manifest.681b8bc84e41e5aa593604526133c326.js": "/agoraip-website-v2/precache-manifest.681b8bc84e41e5aa593604526133c326.js",
+    "precache-manifest.406669776790b6eb687186dbeaf2175d.js": "/agoraip-website-v2/precache-manifest.406669776790b6eb687186dbeaf2175d.js",
     "service-worker.js": "/agoraip-website-v2/service-worker.js",
-    "static/js/2.3a1c8361.chunk.js.LICENSE.txt": "/agoraip-website-v2/static/js/2.3a1c8361.chunk.js.LICENSE.txt",
+    "static/css/2.8f118048.chunk.css.map": "/agoraip-website-v2/static/css/2.8f118048.chunk.css.map",
+    "static/css/main.e0a447ee.chunk.css.map": "/agoraip-website-v2/static/css/main.e0a447ee.chunk.css.map",
+    "static/js/2.c23aeda3.chunk.js.LICENSE.txt": "/agoraip-website-v2/static/js/2.c23aeda3.chunk.js.LICENSE.txt",
     "static/media/agoraip-logo.png": "/agoraip-website-v2/static/media/agoraip-logo.b1a540fe.png",
     "static/media/bg-intro-blue.png": "/agoraip-website-v2/static/media/bg-intro-blue.24fb10b8.png",
     "static/media/bg-intro.jpg": "/agoraip-website-v2/static/media/bg-intro.a43f1711.jpg",
@@ -23,11 +27,16 @@
     "static/media/ip-telephony.png": "/agoraip-website-v2/static/media/ip-telephony.d806349a.png",
     "static/media/nossa-empresa.png": "/agoraip-website-v2/static/media/nossa-empresa.5ac91566.png",
     "static/media/pessoas-conversando.png": "/agoraip-website-v2/static/media/pessoas-conversando.388e82d1.png",
-    "static/media/proposito.png": "/agoraip-website-v2/static/media/proposito.d575878d.png"
+    "static/media/proposito.png": "/agoraip-website-v2/static/media/proposito.d575878d.png",
+    "static/media/slider-1.jpg": "/agoraip-website-v2/static/media/slider-1.14e0688c.jpg",
+    "static/media/slider-2.jpg": "/agoraip-website-v2/static/media/slider-2.f3274286.jpg",
+    "static/media/slider-3.jpg": "/agoraip-website-v2/static/media/slider-3.7e3b2996.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c0f37327.js",
-    "static/js/2.3a1c8361.chunk.js",
-    "static/js/main.90f8053a.chunk.js"
+    "static/css/2.8f118048.chunk.css",
+    "static/js/2.c23aeda3.chunk.js",
+    "static/css/main.e0a447ee.chunk.css",
+    "static/js/main.136a8693.chunk.js"
   ]
 }

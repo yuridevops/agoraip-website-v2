@@ -1,19 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5d63cc8659bca1d12ba9f083a4f774f",
+    "revision": "e77491444c29799f5c254b2793f9c113",
     "url": "/agoraip-website-v2/index.html"
   },
   {
-    "revision": "df0ac762afb9f9214479",
-    "url": "/agoraip-website-v2/static/js/2.3a1c8361.chunk.js"
+    "revision": "2b03e6b1defc1d220162",
+    "url": "/agoraip-website-v2/static/css/2.8f118048.chunk.css"
+  },
+  {
+    "revision": "ffe2520b58de977ae1ba",
+    "url": "/agoraip-website-v2/static/css/main.e0a447ee.chunk.css"
+  },
+  {
+    "revision": "2b03e6b1defc1d220162",
+    "url": "/agoraip-website-v2/static/js/2.c23aeda3.chunk.js"
   },
   {
     "revision": "da75538c52411804769b514107a743de",
-    "url": "/agoraip-website-v2/static/js/2.3a1c8361.chunk.js.LICENSE.txt"
+    "url": "/agoraip-website-v2/static/js/2.c23aeda3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf56375fbb23b9b648e7",
-    "url": "/agoraip-website-v2/static/js/main.90f8053a.chunk.js"
+    "revision": "ffe2520b58de977ae1ba",
+    "url": "/agoraip-website-v2/static/js/main.136a8693.chunk.js"
   },
   {
     "revision": "174e81b0331e7d19729c",
@@ -74,5 +82,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d575878d7da50814943852c39562dbaa",
     "url": "/agoraip-website-v2/static/media/proposito.d575878d.png"
+  },
+  {
+    "revision": "14e0688cb1c58c7f6aa896d7901c1d91",
+    "url": "/agoraip-website-v2/static/media/slider-1.14e0688c.jpg"
+  },
+  {
+    "revision": "f327428630ca83cd3432050bb45e7c77",
+    "url": "/agoraip-website-v2/static/media/slider-2.f3274286.jpg"
+  },
+  {
+    "revision": "7e3b299601d9a95353b4cb8b8b52c56e",
+    "url": "/agoraip-website-v2/static/media/slider-3.7e3b2996.jpg"
   }
 ]);
